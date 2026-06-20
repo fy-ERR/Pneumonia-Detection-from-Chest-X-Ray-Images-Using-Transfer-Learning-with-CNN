@@ -1,2 +1,0 @@
-Dataset Source URL:
-https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
